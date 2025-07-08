@@ -1,0 +1,98 @@
+.shared-container {
+  background-color: #f1f4f8; /* soft blue-gray tone for professional look */
+  min-height: 100vh;
+  padding: 60px 20px;
+  font-family: 'Segoe UI', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #2d3436;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.header h1 {
+  font-size: 2.8rem;
+  font-weight: 600;
+  margin-bottom: 10px;
+  color: #2f3542;
+}
+
+.header p {
+  font-size: 1.1rem;
+  color: #636e72;
+}
+
+.form-box {
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.06);
+  width: 100%;
+  max-width: 600px;
+}
+
+.form-box h2 {
+  font-size: 1.5rem;
+  margin-bottom: 25px;
+  color: #0984e3;
+  text-align: center;
+}
+
+.form-row {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 500;
+  color: #34495e;
+}
+
+.button-group {
+  display: flex;
+  gap: 10px;
+}
+
+.pref-btn {
+  padding: 10px 15px;
+  border: 1px solid #ced6e0;
+  border-radius: 6px;
+  background-color: #f1f2f6;
+  color: #2f3542;
+  cursor: pointer;
+  transition: 0.2s ease;
+  font-weight: 500;
+}
+
+.pref-btn:hover {
+  background-color: #dfe6e9;
+}
+
+.pref-btn.selected {
+  background-color: #0984e3;
+  color: #ffffff;
+  border-color: #0984e3;
+}
+
+.submit-button {
+  background-color: #00b894;
+  color: white;
+  padding: 12px 20px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+  width: 100%;
+  margin-top: 30px;
+  transition: background-color 0.3s ease;
+}
+
+.submit-button:hover {
+  background-color: #019875;
+}

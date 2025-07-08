@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Gachibowli",
+    "safety": 9,
+    "affordability": 6,
+    "greenery": 7,
+    "school": 8,
+    "transport": 9,
+    "jobs": 10,
+    "community": 7
+  },
+  {
+    "name": "Banjara Hills",
+    "safety": 8,
+    "affordability": 3,
+    "greenery": 8,
+    "school": 9,
+    "transport": 7,
+    "jobs": 7,
+    "community": 6
+  },
+  {
+    "name": "Kukatpally",
+    "safety": 6,
+    "affordability": 8,
+    "greenery": 6,
+    "school": 7,
+    "transport": 6,
+    "jobs": 7,
+    "community": 6
+  },
+  {
+    "name": "Ameerpet",
+    "safety": 5,
+    "affordability": 9,
+    "greenery": 5,
+    "school": 6,
+    "transport": 6,
+    "jobs": 6,
+    "community": 5
+  },
+  {
+    "name": "Jubilee Hills",
+    "safety": 9,
+    "affordability": 4,
+    "greenery": 8,
+    "school": 9,
+    "transport": 6,
+    "jobs": 6,
+    "community": 6
+  },
+  {
+    "name": "Madhapur",
+    "safety": 7,
+    "affordability": 5,
+    "greenery": 6,
+    "school": 6,
+    "transport": 8,
+    "jobs": 8,
+    "community": 7
+  },
+  {
+    "name": "SR Nagar",
+    "safety": 6,
+    "affordability": 7,
+    "greenery": 6,
+    "school": 7,
+    "transport": 7,
+    "jobs": 6,
+    "community": 6
+  },
+  {
+    "name": "Kondapur",
+    "safety": 7,
+    "affordability": 6,
+    "greenery": 7,
+    "school": 8,
+    "transport": 8,
+    "jobs": 8,
+    "community": 7
+  },
+  {
+    "name": "Uppal",
+    "safety": 6,
+    "affordability": 8,
+    "greenery": 7,
+    "school": 7,
+    "transport": 6,
+    "jobs": 5,
+    "community": 6
+  },
+  {
+    "name": "Miyapur",
+    "safety": 7,
+    "affordability": 8,
+    "greenery": 6,
+    "school": 7,
+    "transport": 7,
+    "jobs": 7,
+    "community": 7
+  },
+  {
+    "name": "Begumpet",
+    "safety": 6,
+    "affordability": 7,
+    "greenery": 6,
+    "school": 6,
+    "transport": 7,
+    "jobs": 6,
+    "community": 6
+  },
+  {
+    "name": "Secunderabad",
+    "safety": 7,
+    "affordability": 7,
+    "greenery": 7,
+    "school": 7,
+    "transport": 8,
+    "jobs": 7,
+    "community": 6
+  }
+]

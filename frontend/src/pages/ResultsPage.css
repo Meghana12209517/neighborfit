@@ -1,0 +1,68 @@
+@import './PreferencesPage.css';
+
+.shared-container {
+  background-color: #f1f4f8; /* same soft tone as preferences */
+  min-height: 100vh;
+  padding: 60px 20px;
+  font-family: 'Segoe UI', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #2d3436;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.header h1 {
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: #2f3542;
+}
+
+.header p {
+  font-size: 1.1rem;
+  color: #636e72;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.city-card {
+  background-color: #ffffff;
+  padding: 25px 20px;
+  border-radius: 10px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
+  width: 220px;
+  text-align: center;
+  transition: transform 0.2s ease;
+}
+
+.city-card:hover {
+  transform: translateY(-5px);
+  background-color: #f0f4f7;
+}
+
+.back-button {
+  background-color: #3070d6;
+  color: white;
+  padding: 10px 24px;
+  font-size: 15px;
+  font-weight: 600;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  margin-top: 35px;
+  transition: background-color 0.3s ease;
+}
+
+.back-button:hover {
+  background-color: #c0392b;
+}
